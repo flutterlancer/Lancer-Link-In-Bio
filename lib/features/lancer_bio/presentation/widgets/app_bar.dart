@@ -16,7 +16,7 @@ SliverAppBar appBar(BuildContext context) => SliverAppBar(
       actions: [
         TextButton.icon(
           onPressed: () {},
-          icon: SvgPicture.asset(context.assets.subscribe),
+          icon: SvgPicture.asset(context.assets.subscribeIcon),
           label:
               "Subscribe".text.textStyle(context.themeConfig.headline4).make(),
         ),

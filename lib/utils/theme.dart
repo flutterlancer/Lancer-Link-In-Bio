@@ -10,6 +10,7 @@ class AppTheme {
         appBarTheme: context.themeConfig.appBarTheme,
         tabBarTheme: context.themeConfig.tabBarTheme,
         textButtonTheme: context.themeConfig.textButtonTheme,
+        progressIndicatorTheme: context.themeConfig.progressIndicatorTheme,
       );
 }
 
@@ -77,6 +78,12 @@ class BioThemeConfig {
         offset: const Offset(0, 2),
         blurRadius: 4.r,
         spreadRadius: 0,
+      );
+
+  ProgressIndicatorThemeData get progressIndicatorTheme =>
+      ProgressIndicatorThemeData(
+        linearMinHeight: 2.h,
+        linearTrackColor: textButtonOverlayColor,
       );
 }
 

@@ -8,7 +8,7 @@ class AppRouter {
       // initial page
       GoRoute(
         path: "/",
-        builder: (context, state) => const BrowserPage(),
+        redirect: (context, state) => AppRoutes.browser,
       ),
       // web browser
       GoRoute(
