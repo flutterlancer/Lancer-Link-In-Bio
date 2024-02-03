@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:lancer_link_in_bio/core/router/router.dart';
 import 'package:lancer_link_in_bio/di.dart';
-import 'package:lancer_link_in_bio/features/lancer_bio/presentation/pages/home_page.dart';
 import 'package:lancer_link_in_bio/utils/theme.dart';
 
 void main() {
@@ -18,11 +18,11 @@ class MyApp extends StatelessWidget {
     return ScreenUtilInit(
       designSize: const Size(375, 812),
       child: Builder(builder: (context) {
-        return MaterialApp(
+        return MaterialApp.router(
+          routerConfig: AppRouter.router,
           debugShowCheckedModeBanner: false,
           title: 'Lancer LinkInBio',
           theme: AppTheme.lightTheme(context),
-          home: const BioPage(),
         );
       }),
     );
