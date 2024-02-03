@@ -5,7 +5,11 @@ import 'package:lancer_link_in_bio/utils/assets.dart';
 import 'package:lancer_link_in_bio/utils/theme.dart';
 import 'package:velocity_x/velocity_x.dart';
 
-AppBar appBar(BuildContext context) => AppBar(
+SliverAppBar appBar(BuildContext context) => SliverAppBar(
+      floating: true,
+      pinned: true,
+      snap: false,
+      stretch: true,
       toolbarHeight: kToolbarHeight + 12.h,
       leading: SvgPicture.asset(context.assets.logo).pOnly(left: 12.w),
       title: "LancerBio".text.textStyle(context.themeConfig.headline3).make(),
@@ -19,7 +23,5 @@ AppBar appBar(BuildContext context) => AppBar(
       ],
       bottom: const TabBar(
         tabs: [Tab(text: "FREEBIES"), Tab(text: "ABOUT")],
-      )
-          .pOnly(top: 16.h)
-          .preferredSize(const Size.fromHeight(kTextTabBarHeight)),
+      ),
     );

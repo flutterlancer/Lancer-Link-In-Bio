@@ -112,55 +112,55 @@ class LancerBioRepositoryImpl implements LancerBioRepository {
       ],
       resourceFilesLinks: [
         LancerLink.resourceFileLink(
-          title: "Create powerful development workflows",
+          title: "ESignnature Sign Apps - Mobile Apps 4 Screen",
           link: "https://www.figma.com/community",
           imageUrl:
               "https://s3-alpha-sig.figma.com/plugins/857346721138427857/77903/07411a3dd898a71fa02e026d07a14d88878dd6c4-cover?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sy7YbxOnKHNWPSLukInDseMAE09IZRPOw6c6gUCB48fxYWwtc54DfzWdgCl6kGiugKeIJjvMD0n18UrBmjo~VJjQzF4S0NtruYd1jURLkahw~89NRHRQ37fXYbRkGMjmkAK4QpWor-VEISyReSIt07bHlgUHmNWlo5~H9Fuc36EwlS6W6~OPRcldkflUYwEJdr~YAOfkHGad6tYkceLmLAn2ODOcOVVfvTTFzSPxYagTIBM2c0lg6CjLhyhj7FQAQV8xz8joXlleZQaoL5ABbLelvbD0YKyuJr0-wjD7BOKdGTHEjz-D~lvC0zcASFMaASQn-0L61XsW4wD1rlzmIw__",
         ),
         LancerLink.resourceFileLink(
-          title: "Create powerful development workflows",
+          title: "ESignnature Sign Apps - Mobile Apps 4 Screen",
           link: "https://www.figma.com/community",
           imageUrl:
               "https://s3-alpha-sig.figma.com/plugins/857346721138427857/77903/07411a3dd898a71fa02e026d07a14d88878dd6c4-cover?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sy7YbxOnKHNWPSLukInDseMAE09IZRPOw6c6gUCB48fxYWwtc54DfzWdgCl6kGiugKeIJjvMD0n18UrBmjo~VJjQzF4S0NtruYd1jURLkahw~89NRHRQ37fXYbRkGMjmkAK4QpWor-VEISyReSIt07bHlgUHmNWlo5~H9Fuc36EwlS6W6~OPRcldkflUYwEJdr~YAOfkHGad6tYkceLmLAn2ODOcOVVfvTTFzSPxYagTIBM2c0lg6CjLhyhj7FQAQV8xz8joXlleZQaoL5ABbLelvbD0YKyuJr0-wjD7BOKdGTHEjz-D~lvC0zcASFMaASQn-0L61XsW4wD1rlzmIw__",
         ),
         LancerLink.resourceFileLink(
-          title: "Create powerful development workflows",
+          title: "ESignnature Sign Apps - Mobile Apps 4 Screen",
           link: "https://www.figma.com/community",
           imageUrl:
               "https://s3-alpha-sig.figma.com/plugins/857346721138427857/77903/07411a3dd898a71fa02e026d07a14d88878dd6c4-cover?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sy7YbxOnKHNWPSLukInDseMAE09IZRPOw6c6gUCB48fxYWwtc54DfzWdgCl6kGiugKeIJjvMD0n18UrBmjo~VJjQzF4S0NtruYd1jURLkahw~89NRHRQ37fXYbRkGMjmkAK4QpWor-VEISyReSIt07bHlgUHmNWlo5~H9Fuc36EwlS6W6~OPRcldkflUYwEJdr~YAOfkHGad6tYkceLmLAn2ODOcOVVfvTTFzSPxYagTIBM2c0lg6CjLhyhj7FQAQV8xz8joXlleZQaoL5ABbLelvbD0YKyuJr0-wjD7BOKdGTHEjz-D~lvC0zcASFMaASQn-0L61XsW4wD1rlzmIw__",
         ),
         LancerLink.resourceFileLink(
-          title: "Create powerful development workflows",
+          title: "ESignnature Sign Apps - Mobile Apps 4 Screen",
           link: "https://www.figma.com/community",
           imageUrl:
               "https://s3-alpha-sig.figma.com/plugins/857346721138427857/77903/07411a3dd898a71fa02e026d07a14d88878dd6c4-cover?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sy7YbxOnKHNWPSLukInDseMAE09IZRPOw6c6gUCB48fxYWwtc54DfzWdgCl6kGiugKeIJjvMD0n18UrBmjo~VJjQzF4S0NtruYd1jURLkahw~89NRHRQ37fXYbRkGMjmkAK4QpWor-VEISyReSIt07bHlgUHmNWlo5~H9Fuc36EwlS6W6~OPRcldkflUYwEJdr~YAOfkHGad6tYkceLmLAn2ODOcOVVfvTTFzSPxYagTIBM2c0lg6CjLhyhj7FQAQV8xz8joXlleZQaoL5ABbLelvbD0YKyuJr0-wjD7BOKdGTHEjz-D~lvC0zcASFMaASQn-0L61XsW4wD1rlzmIw__",
         ),
         LancerLink.resourceFileLink(
-          title: "Create powerful development workflows",
+          title: "ESignnature Sign Apps - Mobile Apps 4 Screen",
           link: "https://www.figma.com/community",
           imageUrl:
               "https://s3-alpha-sig.figma.com/plugins/857346721138427857/77903/07411a3dd898a71fa02e026d07a14d88878dd6c4-cover?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sy7YbxOnKHNWPSLukInDseMAE09IZRPOw6c6gUCB48fxYWwtc54DfzWdgCl6kGiugKeIJjvMD0n18UrBmjo~VJjQzF4S0NtruYd1jURLkahw~89NRHRQ37fXYbRkGMjmkAK4QpWor-VEISyReSIt07bHlgUHmNWlo5~H9Fuc36EwlS6W6~OPRcldkflUYwEJdr~YAOfkHGad6tYkceLmLAn2ODOcOVVfvTTFzSPxYagTIBM2c0lg6CjLhyhj7FQAQV8xz8joXlleZQaoL5ABbLelvbD0YKyuJr0-wjD7BOKdGTHEjz-D~lvC0zcASFMaASQn-0L61XsW4wD1rlzmIw__",
         ),
         LancerLink.resourceFileLink(
-          title: "Create powerful development workflows",
+          title: "ESignnature Sign Apps - Mobile Apps 4 Screen",
           link: "https://www.figma.com/community",
           imageUrl:
               "https://s3-alpha-sig.figma.com/plugins/857346721138427857/77903/07411a3dd898a71fa02e026d07a14d88878dd6c4-cover?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sy7YbxOnKHNWPSLukInDseMAE09IZRPOw6c6gUCB48fxYWwtc54DfzWdgCl6kGiugKeIJjvMD0n18UrBmjo~VJjQzF4S0NtruYd1jURLkahw~89NRHRQ37fXYbRkGMjmkAK4QpWor-VEISyReSIt07bHlgUHmNWlo5~H9Fuc36EwlS6W6~OPRcldkflUYwEJdr~YAOfkHGad6tYkceLmLAn2ODOcOVVfvTTFzSPxYagTIBM2c0lg6CjLhyhj7FQAQV8xz8joXlleZQaoL5ABbLelvbD0YKyuJr0-wjD7BOKdGTHEjz-D~lvC0zcASFMaASQn-0L61XsW4wD1rlzmIw__",
         ),
         LancerLink.resourceFileLink(
-          title: "Create powerful development workflows",
+          title: "ESignnature Sign Apps - Mobile Apps 4 Screen",
           link: "https://www.figma.com/community",
           imageUrl:
               "https://s3-alpha-sig.figma.com/plugins/857346721138427857/77903/07411a3dd898a71fa02e026d07a14d88878dd6c4-cover?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sy7YbxOnKHNWPSLukInDseMAE09IZRPOw6c6gUCB48fxYWwtc54DfzWdgCl6kGiugKeIJjvMD0n18UrBmjo~VJjQzF4S0NtruYd1jURLkahw~89NRHRQ37fXYbRkGMjmkAK4QpWor-VEISyReSIt07bHlgUHmNWlo5~H9Fuc36EwlS6W6~OPRcldkflUYwEJdr~YAOfkHGad6tYkceLmLAn2ODOcOVVfvTTFzSPxYagTIBM2c0lg6CjLhyhj7FQAQV8xz8joXlleZQaoL5ABbLelvbD0YKyuJr0-wjD7BOKdGTHEjz-D~lvC0zcASFMaASQn-0L61XsW4wD1rlzmIw__",
         ),
         LancerLink.resourceFileLink(
-          title: "Create powerful development workflows",
+          title: "ESignnature Sign Apps - Mobile Apps 4 Screen",
           link: "https://www.figma.com/community",
           imageUrl:
               "https://s3-alpha-sig.figma.com/plugins/857346721138427857/77903/07411a3dd898a71fa02e026d07a14d88878dd6c4-cover?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sy7YbxOnKHNWPSLukInDseMAE09IZRPOw6c6gUCB48fxYWwtc54DfzWdgCl6kGiugKeIJjvMD0n18UrBmjo~VJjQzF4S0NtruYd1jURLkahw~89NRHRQ37fXYbRkGMjmkAK4QpWor-VEISyReSIt07bHlgUHmNWlo5~H9Fuc36EwlS6W6~OPRcldkflUYwEJdr~YAOfkHGad6tYkceLmLAn2ODOcOVVfvTTFzSPxYagTIBM2c0lg6CjLhyhj7FQAQV8xz8joXlleZQaoL5ABbLelvbD0YKyuJr0-wjD7BOKdGTHEjz-D~lvC0zcASFMaASQn-0L61XsW4wD1rlzmIw__",
         ),
         LancerLink.resourceFileLink(
-          title: "Create powerful development workflows",
+          title: "ESignnature Sign Apps - Mobile Apps 4 Screen",
           link: "https://www.figma.com/community",
           imageUrl:
               "https://s3-alpha-sig.figma.com/plugins/857346721138427857/77903/07411a3dd898a71fa02e026d07a14d88878dd6c4-cover?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Sy7YbxOnKHNWPSLukInDseMAE09IZRPOw6c6gUCB48fxYWwtc54DfzWdgCl6kGiugKeIJjvMD0n18UrBmjo~VJjQzF4S0NtruYd1jURLkahw~89NRHRQ37fXYbRkGMjmkAK4QpWor-VEISyReSIt07bHlgUHmNWlo5~H9Fuc36EwlS6W6~OPRcldkflUYwEJdr~YAOfkHGad6tYkceLmLAn2ODOcOVVfvTTFzSPxYagTIBM2c0lg6CjLhyhj7FQAQV8xz8joXlleZQaoL5ABbLelvbD0YKyuJr0-wjD7BOKdGTHEjz-D~lvC0zcASFMaASQn-0L61XsW4wD1rlzmIw__",

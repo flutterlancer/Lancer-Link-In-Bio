@@ -7,10 +7,10 @@ import 'package:lancer_link_in_bio/features/lancer_bio/presentation/widgets/webs
 import 'package:lancer_link_in_bio/utils/theme.dart';
 import 'package:velocity_x/velocity_x.dart';
 
-import 'content_link.dart';
+import '../content_link.dart';
 
-class AboutWidget extends StatelessWidget {
-  const AboutWidget({super.key});
+class AboutTabWidget extends StatelessWidget {
+  const AboutTabWidget({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -43,7 +43,7 @@ class AboutWidget extends StatelessWidget {
         24.h.heightBox,
         const AboutLancerWidget().px16(),
         12.h.heightBox,
-        const SocialLinksWidget().px16(),
+        const SocialLinksWidget().pOnly(left: 16.w),
         24.h.heightBox,
         "Link from Content"
             .text

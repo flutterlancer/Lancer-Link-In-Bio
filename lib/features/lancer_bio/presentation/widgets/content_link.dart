@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:lancer_link_in_bio/features/lancer_bio/data/models/lancer_link.dart';
-import 'package:lancer_link_in_bio/utils/assets.dart';
+import 'package:lancer_link_in_bio/features/lancer_bio/presentation/widgets/launch_button.dart';
 import 'package:lancer_link_in_bio/utils/theme.dart';
 import 'package:velocity_x/velocity_x.dart';
 
@@ -20,14 +19,7 @@ class ContentLinkWidget extends StatelessWidget {
             .textStyle(context.themeConfig.headline4)
             .make()
             .py20(),
-        trailing: VxBox(
-          child: SvgPicture.asset(context.assets.arrowRightIcon).centered(),
-        )
-            .width(36.w)
-            .height(36.h)
-            .color(context.themeConfig.primaryColor)
-            .withRounded(value: 12.r)
-            .make(),
+        trailing: LaunchButtonWidget(onTap: () {}),
       )
           .box
           .color(context.themeConfig.whiteColor)

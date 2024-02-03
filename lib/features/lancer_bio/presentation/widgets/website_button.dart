@@ -11,20 +11,23 @@ class WebsiteButtonWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return VxBox(
-      child: Row(
-        children: [
-          SvgPicture.asset(context.assets.linkArrowIcon),
-          const Spacer(),
-          "Personal Website"
-              .text
-              .textStyle(
-                context.themeConfig.headline3
-                    .copyWith(color: context.themeConfig.whiteColor),
-              )
-              .make(),
-          const Spacer(),
-        ],
-      ).centered().px12(),
+      child: TextButton(
+        onPressed: () {},
+        child: Row(
+          children: [
+            SvgPicture.asset(context.assets.linkArrowIcon),
+            const Spacer(),
+            "Personal Website"
+                .text
+                .textStyle(
+                  context.themeConfig.headline3
+                      .copyWith(color: context.themeConfig.whiteColor),
+                )
+                .make(),
+            const Spacer(),
+          ],
+        ).centered(),
+      ),
     )
         .width(1.sw)
         .height(56.h)

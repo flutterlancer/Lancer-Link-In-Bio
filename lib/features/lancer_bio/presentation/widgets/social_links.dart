@@ -16,7 +16,7 @@ class SocialLinksWidget extends StatelessWidget {
         crossAxisCount: 3,
         mainAxisExtent: 36.h,
         mainAxisSpacing: 8.h,
-        crossAxisSpacing: 8.w,
+        // crossAxisSpacing: 8.w,
       ),
       itemBuilder: (context, index) =>
           SocialLinkButtonWidget(link: lancer.socialLinks[index]),

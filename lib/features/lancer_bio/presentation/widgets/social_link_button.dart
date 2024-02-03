@@ -22,7 +22,7 @@ class SocialLinkButtonWidget extends StatelessWidget {
           8.w.widthBox,
           link.platform.text.textStyle(context.themeConfig.headline4).make(),
         ],
-      ).cornerRadius(100.r),
+      ).px8().cornerRadius(100.r),
     );
   }
 }

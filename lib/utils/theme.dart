@@ -21,7 +21,7 @@ class BioThemeConfig {
   get whiteColor => const Color(0xffFFFFFF);
   Color get blackColor => const Color(0xff000000);
   get transparentColor => Colors.transparent;
-  get textButtonOverlayColor => secondaryTextColor.withOpacity(0.05);
+  get textButtonOverlayColor => secondaryTextColor.withOpacity(0.1);
 
   TextButtonThemeData get textButtonTheme => TextButtonThemeData(
           style: ButtonStyle(
