@@ -15,14 +15,17 @@ class AppTheme {
 }
 
 class BioThemeConfig {
-  get primaryColor => const Color(0xffBEF264);
-  get primaryTextColor => const Color(0xff111826);
-  get secondaryTextColor => const Color(0xff64748A);
-  get scaffoldBgColor => const Color(0xffFFFFFF);
-  get whiteColor => const Color(0xffFFFFFF);
+  Color get primaryColor => const Color(0xffBEF264);
+  Color get primaryTextColor => const Color(0xff111826);
+  Color get secondaryTextColor => const Color(0xff5A5B63);
+  Color get scaffoldBgColor => const Color(0xffFFFFFF);
+  Color get whiteColor => const Color(0xffFFFFFF);
   Color get blackColor => const Color(0xff000000);
-  get transparentColor => Colors.transparent;
-  get textButtonOverlayColor => secondaryTextColor.withOpacity(0.1);
+  Color get transparentColor => Colors.transparent;
+  Color get textButtonOverlayColor => secondaryTextColor.withOpacity(0.1);
+  Color get loginScaffoldBgColor => const Color(0xff171818);
+  Color get blueColor => const Color(0xff0183FF);
+  Color get loginTextFieldBorderColor => const Color(0xfff2f2f2);
 
   TextButtonThemeData get textButtonTheme => TextButtonThemeData(
           style: ButtonStyle(
@@ -63,6 +66,12 @@ class BioThemeConfig {
         fontSize: 14.sp,
         fontWeight: FontWeight.w600,
         color: primaryTextColor,
+      );
+
+  TextStyle get loginTextFieldHintStyle => TextStyle(
+        fontSize: 18.sp,
+        fontWeight: FontWeight.w400,
+        color: secondaryTextColor,
       );
 
   TabBarTheme get tabBarTheme => TabBarTheme(

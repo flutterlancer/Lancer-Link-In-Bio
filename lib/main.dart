@@ -15,16 +15,22 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return ScreenUtilInit(
-      designSize: const Size(375, 812),
-      child: Builder(builder: (context) {
-        return MaterialApp.router(
-          routerConfig: AppRouter.router,
-          debugShowCheckedModeBanner: false,
-          title: 'Lancer LinkInBio',
-          theme: AppTheme.lightTheme(context),
-        );
-      }),
+    return NotificationListener<OverscrollIndicatorNotification>(
+      onNotification: (notif) {
+        notif.disallowIndicator();
+        return true;
+      },
+      child: ScreenUtilInit(
+        designSize: const Size(375, 812),
+        child: Builder(builder: (context) {
+          return MaterialApp.router(
+            routerConfig: AppRouter.router,
+            debugShowCheckedModeBanner: false,
+            title: 'Lancer LinkInBio',
+            theme: AppTheme.lightTheme(context),
+          );
+        }),
+      ),
     );
   }
 }

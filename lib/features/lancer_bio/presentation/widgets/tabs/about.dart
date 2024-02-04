@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:lancer_link_in_bio/features/lancer_bio/presentation/pages/home_page.dart';
+import 'package:lancer_link_in_bio/features/lancer_bio/presentation/pages/bio_page.dart';
 import 'package:lancer_link_in_bio/features/lancer_bio/presentation/widgets/about_lancer.dart';
 import 'package:lancer_link_in_bio/features/lancer_bio/presentation/widgets/social_links.dart';
 import 'package:lancer_link_in_bio/features/lancer_bio/presentation/widgets/website_button.dart';

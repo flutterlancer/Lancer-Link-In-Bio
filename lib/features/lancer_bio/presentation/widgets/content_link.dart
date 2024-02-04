@@ -14,6 +14,8 @@ class ContentLinkWidget extends StatelessWidget {
     return Container(
       margin: EdgeInsets.symmetric(horizontal: 20.w),
       child: ListTile(
+        tileColor: context.themeConfig.whiteColor,
+        onTap: () {},
         contentPadding: EdgeInsets.only(left: 16.w, right: 16.w),
         title: link.title!.text.uppercase
             .textStyle(context.themeConfig.headline4)

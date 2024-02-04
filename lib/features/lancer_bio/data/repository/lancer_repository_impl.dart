@@ -11,7 +11,7 @@ class LancerBioRepositoryImpl implements LancerBioRepository {
       name: "Muhammad Umair Jamil",
       imageUrl:
           "https://i.ytimg.com/vi/PpPKYycAUL8/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAtZ1zbU6A824MhSHkmOoQQTgYBpQ",
-      website: "https://flutterlancer.com",
+      website: "https://himsingh.com/website",
       headline: "Freelance Flutter Developer",
       bio:
           "Self-Taught Flutter Developer -Passionate about AI & Backend Development -Crafting Seamless Experiences with a Touch of Innovation ✨",
@@ -24,7 +24,7 @@ class LancerBioRepositoryImpl implements LancerBioRepository {
         SocialLink(
           platform: "Linkedin",
           username: "flutterlancer",
-          platformUrl: "https://linkedin.com",
+          platformUrl: "https://linkedin.com/in",
         ),
         SocialLink(
           platform: "Email",
